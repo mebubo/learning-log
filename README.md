@@ -22,12 +22,17 @@
 - 2019-01-01
     - https://skillsmatter.com/skillscasts/13292-lightning-talk-mtl-in-15-minutes
     - https://skillsmatter.com/skillscasts/12634-cats-effect-tagless-final-and-beyond
+    - [Monad Transformer State - Michael Snoyman](https://www.youtube.com/watch?v=KZIN9f9rI34)
+    - [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4)
 
 # Queue
 
 ## To read
 
+- https://www.fpcomplete.com/blog/2017/06/tale-of-two-brackets
 - https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
+- https://www.fpcomplete.com/blog/2017/07/the-rio-monad
+- https://www.fpcomplete.com/blog/2017/07/announcing-new-unliftio-library
 - https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
 - https://www.tweag.io/posts/2018-10-04-capability.html
 - https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html
@@ -43,7 +48,6 @@
 
 ## To watch
 
-- [Monad Transformer State - Michael Snoyman](https://www.youtube.com/watch?v=KZIN9f9rI34)
 - [Maybe Not - Rich Hickey](https://www.youtube.com/watch?v=YR5WdGrpoug)
 - [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
 - [LambdaConf 2015 - Finally Tagless DSLs and MTL Joseph Abrahamson](https://www.youtube.com/watch?v=JxC1ExlLjgw)
@@ -52,7 +56,6 @@
 - [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
 - [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74)
 - [Valentin Kasas & Olivier Girardot - Recursion Schemes Without the Barbed Wire (Part 1) - λC 2018](https://www.youtube.com/watch?v=0y0EuoToTco)
-- [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4)
 - [Declarative Control Flow with fs2 Stream – Fabio Labella](https://www.youtube.com/watch?v=YSN__0VEsaw)
 - [Advanced Stream Processing in Scala](http://www.youtube.com/watch?v=8fC2V9HX_m8) talk by [Paul Chiusano]
 - [FS2 Internals: Performance](https://www.youtube.com/watch?v=TXxzMF14pxU) from scale.bythebay.io by [Michael Pilquist]
@@ -67,6 +70,9 @@
 - ["Turning the database inside out with Apache Samza" by Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 - [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
 - https://skillsmatter.com/skillscasts/12650-ciris-functional-configurations
+- [Extensible Effects: A Leaner Cake for Purely Functional Code – Edmund Noble](https://www.youtube.com/watch?v=IQYf8_E9G9s)
+- [Principled error handling - Beyond MonadError - Luka Jacobowitz](https://www.youtube.com/watch?v=RySodlS3cSI)
+- [Matt Parsons - Exceptional Haskell - λC 2018](https://www.youtube.com/watch?v=A5c9kgDYXr8)
 
 # Projects
 
