@@ -34,7 +34,7 @@
 - https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html
 - https://recursion-schemes-by-example.chrispenner.ca/
 - https://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/
-- https://www.infoq.com/presentations/Simple-Made-Easy
+- [Monad Transformer State - Michael Snoyman](https://www.youtube.com/watch?v=KZIN9f9rI34)
 - [Maybe Not - Rich Hickey](https://www.youtube.com/watch?v=YR5WdGrpoug)
 - [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
 - [LambdaConf 2015 - Finally Tagless DSLs and MTL Joseph Abrahamson](https://www.youtube.com/watch?v=JxC1ExlLjgw)
@@ -44,8 +44,16 @@
 - [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74)
 - [Valentin Kasas & Olivier Girardot - Recursion Schemes Without the Barbed Wire (Part 1) - λC 2018](https://www.youtube.com/watch?v=0y0EuoToTco)
 - [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4)
+- [Declarative Control Flow with fs2 Stream – Fabio Labella](https://www.youtube.com/watch?v=YSN__0VEsaw)
+- [Advanced Stream Processing in Scala](http://www.youtube.com/watch?v=8fC2V9HX_m8) talk by [Paul Chiusano]
+- [FS2 Internals: Performance](https://www.youtube.com/watch?v=TXxzMF14pxU) from scale.bythebay.io by [Michael Pilquist]
+- [Compositional Streaming with FS2](https://www.youtube.com/watch?v=oFk8-a1FSP0) + [Slides](https://speakerdeck.com/mpilquist/compositional-streaming-with-fs2) by [Michael Pilquist]
+- [Intro to Functional Streams for Scala (FS2) - Part 3: Concurrency](https://www.youtube.com/watch?v=8YxcB6PIUDg) by [Michael Pilquist]
+- [Intro to Functional Streams for Scala (FS2) - Part 2: Chunks & Pipes](https://www.youtube.com/watch?v=HM0mOu5o2uA) by [Michael Pilquist]
+- [Intro to Functional Streams for Scala (FS2) - Part 1](https://www.youtube.com/watch?v=cahvyadYfX8) by [Michael Pilquist]
 - https://skillsmatter.com/skillscasts/12741-functional-interpreters-and-you
 - https://skillsmatter.com/skillscasts/12833-unfolding-programs-with-interpreters
+- https://www.infoq.com/presentations/Simple-Made-Easy
 
 # Projects
 
