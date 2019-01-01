@@ -25,6 +25,8 @@
 
 # Queue
 
+## To read
+
 - https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
 - https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
 - https://www.tweag.io/posts/2018-10-04-capability.html
@@ -34,6 +36,9 @@
 - https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html
 - https://recursion-schemes-by-example.chrispenner.ca/
 - https://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/
+
+## To watch
+
 - [Monad Transformer State - Michael Snoyman](https://www.youtube.com/watch?v=KZIN9f9rI34)
 - [Maybe Not - Rich Hickey](https://www.youtube.com/watch?v=YR5WdGrpoug)
 - [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
