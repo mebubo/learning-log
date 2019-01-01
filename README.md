@@ -36,6 +36,10 @@
 - https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html
 - https://recursion-schemes-by-example.chrispenner.ca/
 - https://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/
+- https://mpickering.github.io/posts/2018-09-12-funflow-nix.html
+- https://mpickering.github.io/posts/2018-09-19-nix-artefacts.html
+- https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html
+- https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
 
 ## To watch
 
@@ -59,6 +63,10 @@
 - https://skillsmatter.com/skillscasts/12741-functional-interpreters-and-you
 - https://skillsmatter.com/skillscasts/12833-unfolding-programs-with-interpreters
 - https://www.infoq.com/presentations/Simple-Made-Easy
+- [Scale By The Bay 2018: Bryan Clapper, Introduction to Apache Spark with Frameless](https://www.youtube.com/watch?v=rzlKpv9A_5c)
+- ["Turning the database inside out with Apache Samza" by Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
+- [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
+- https://skillsmatter.com/skillscasts/12650-ciris-functional-configurations
 
 # Projects
 
