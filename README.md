@@ -24,6 +24,7 @@
     - https://skillsmatter.com/skillscasts/12634-cats-effect-tagless-final-and-beyond
     - [Monad Transformer State - Michael Snoyman](https://www.youtube.com/watch?v=KZIN9f9rI34)
     - [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4)
+    - [Matt Parsons - Exceptional Haskell - λC 2018](https://www.youtube.com/watch?v=A5c9kgDYXr8)
 
 # Queue
 
@@ -72,7 +73,6 @@
 - https://skillsmatter.com/skillscasts/12650-ciris-functional-configurations
 - [Extensible Effects: A Leaner Cake for Purely Functional Code – Edmund Noble](https://www.youtube.com/watch?v=IQYf8_E9G9s)
 - [Principled error handling - Beyond MonadError - Luka Jacobowitz](https://www.youtube.com/watch?v=RySodlS3cSI)
-- [Matt Parsons - Exceptional Haskell - λC 2018](https://www.youtube.com/watch?v=A5c9kgDYXr8)
 
 # Projects
 
