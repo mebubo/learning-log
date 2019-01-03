@@ -25,6 +25,7 @@
     - [Monad Transformer State - Michael Snoyman](https://www.youtube.com/watch?v=KZIN9f9rI34)
     - [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4)
     - [Matt Parsons - Exceptional Haskell - λC 2018](https://www.youtube.com/watch?v=A5c9kgDYXr8)
+- 2019-01-03 [Next Level MTL - George Wilson - BFPG 2016-06](https://www.youtube.com/watch?v=GZPup5Iuaqw)
 
 # Queue
 
@@ -46,6 +47,7 @@
 - https://mpickering.github.io/posts/2018-09-19-nix-artefacts.html
 - https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html
 - https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
+- https://www.parsonsmatt.org/2015/11/15/template_haskell.html
 
 ## To watch
 
@@ -53,7 +55,6 @@
 - [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
 - [LambdaConf 2015 - Finally Tagless DSLs and MTL Joseph Abrahamson](https://www.youtube.com/watch?v=JxC1ExlLjgw)
 - [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
-- [Next Level MTL - George Wilson - BFPG 2016-06](https://www.youtube.com/watch?v=GZPup5Iuaqw)
 - [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
 - [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74)
 - [Valentin Kasas & Olivier Girardot - Recursion Schemes Without the Barbed Wire (Part 1) - λC 2018](https://www.youtube.com/watch?v=0y0EuoToTco)
