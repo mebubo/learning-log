@@ -89,3 +89,4 @@
 - https://github.com/thomashoneyman/purescript-halogen-realworld
 - https://github.com/SmartBackpacker/core
 - https://github.com/vladciobanu/purescript-halogen-example
+- https://github.com/kubukoz/brick-store
