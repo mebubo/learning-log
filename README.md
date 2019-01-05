@@ -26,6 +26,7 @@
     - [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4)
     - [Matt Parsons - Exceptional Haskell - λC 2018](https://www.youtube.com/watch?v=A5c9kgDYXr8)
 - 2019-01-03 [Next Level MTL - George Wilson - BFPG 2016-06](https://www.youtube.com/watch?v=GZPup5Iuaqw)
+- 2019-01-05 [LambdaConf 2015 - Finally Tagless DSLs and MTL Joseph Abrahamson](https://www.youtube.com/watch?v=JxC1ExlLjgw)
 
 # Queue
 
@@ -53,7 +54,6 @@
 
 - [Maybe Not - Rich Hickey](https://www.youtube.com/watch?v=YR5WdGrpoug)
 - [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
-- [LambdaConf 2015 - Finally Tagless DSLs and MTL Joseph Abrahamson](https://www.youtube.com/watch?v=JxC1ExlLjgw)
 - [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
 - [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
 - [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74)
