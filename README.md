@@ -29,6 +29,7 @@
     - [Matt Parsons - Exceptional Haskell - λC 2018](https://www.youtube.com/watch?v=A5c9kgDYXr8)
 - 2019-01-03 [Next Level MTL - George Wilson - BFPG 2016-06](https://www.youtube.com/watch?v=GZPup5Iuaqw)
 - 2019-01-05 [LambdaConf 2015 - Finally Tagless DSLs and MTL Joseph Abrahamson](https://www.youtube.com/watch?v=JxC1ExlLjgw)
+- 2019-01-10 https://monix.io/blog/2018/11/07/tutorial-bracket.html
 
 # Queue
 
