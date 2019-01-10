@@ -6,6 +6,7 @@
 - 2018-12-28 https://bartoszmilewski.com/2018/12/20/open-season-on-hylomorphisms/
 - 2018-12-31 https://blog.jle.im/entry/mtl-is-not-a-monad-transformer-library.html
 - 2019-01-08 https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html
+- 2019-01-10 https://typelevel.org/cats-effect/tutorial/tutorial.html
 
 ## Watched
 
@@ -49,7 +50,6 @@
 - https://mpickering.github.io/posts/2018-09-19-nix-artefacts.html
 - https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
 - https://www.parsonsmatt.org/2015/11/15/template_haskell.html
-- https://typelevel.org/cats-effect/tutorial/tutorial.html
 
 ## To watch
 
