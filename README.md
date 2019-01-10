@@ -51,6 +51,8 @@
 - https://mpickering.github.io/posts/2018-09-19-nix-artefacts.html
 - https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
 - https://www.parsonsmatt.org/2015/11/15/template_haskell.html
+- https://github.com/FintanH/blogs/blob/master/advent-of-schemes.md
+- http://www.tpflug.me/2019/01/07/post-christmas-advent-pt1/
 
 ## To watch
 
@@ -76,6 +78,8 @@
 - https://skillsmatter.com/skillscasts/12650-ciris-functional-configurations
 - [Extensible Effects: A Leaner Cake for Purely Functional Code – Edmund Noble](https://www.youtube.com/watch?v=IQYf8_E9G9s)
 - [Principled error handling - Beyond MonadError - Luka Jacobowitz](https://www.youtube.com/watch?v=RySodlS3cSI)
+- [Duality and How to Delete Half (minus ε) of Your Code – Greg Pfeil](https://www.youtube.com/watch?v=VGZi4nTgZxs)
+- [scala.bythebay.io: Greg Pfeil, This programmer modeled his code after wooden nesting dolls](https://www.youtube.com/watch?v=lQdpXqD7Uic)
 
 # Projects
 
