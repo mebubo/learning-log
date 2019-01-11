@@ -30,6 +30,10 @@
 - 2019-01-03 [Next Level MTL - George Wilson - BFPG 2016-06](https://www.youtube.com/watch?v=GZPup5Iuaqw)
 - 2019-01-05 [LambdaConf 2015 - Finally Tagless DSLs and MTL Joseph Abrahamson](https://www.youtube.com/watch?v=JxC1ExlLjgw)
 - 2019-01-10 https://monix.io/blog/2018/11/07/tutorial-bracket.html
+- 2019-01-11
+    - [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
+    - [Free as in Monads](https://www.youtube.com/watch?v=cxMo1RMsD0M)
+
 
 # Queue
 
@@ -74,7 +78,6 @@
 - https://www.infoq.com/presentations/Simple-Made-Easy
 - [Scale By The Bay 2018: Bryan Clapper, Introduction to Apache Spark with Frameless](https://www.youtube.com/watch?v=rzlKpv9A_5c)
 - ["Turning the database inside out with Apache Samza" by Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
-- [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
 - https://skillsmatter.com/skillscasts/12650-ciris-functional-configurations
 - [Extensible Effects: A Leaner Cake for Purely Functional Code – Edmund Noble](https://www.youtube.com/watch?v=IQYf8_E9G9s)
 - [Principled error handling - Beyond MonadError - Luka Jacobowitz](https://www.youtube.com/watch?v=RySodlS3cSI)
