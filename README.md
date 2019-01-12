@@ -33,6 +33,8 @@
 - 2019-01-11
     - [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
     - [Free as in Monads](https://www.youtube.com/watch?v=cxMo1RMsD0M)
+- 2019-01-12
+    - [Enterprise Algebras—Tim Perrett](https://www.youtube.com/watch?v=oAu0MIe072M)
 
 
 # Queue
@@ -83,6 +85,11 @@
 - [Principled error handling - Beyond MonadError - Luka Jacobowitz](https://www.youtube.com/watch?v=RySodlS3cSI)
 - [Duality and How to Delete Half (minus ε) of Your Code – Greg Pfeil](https://www.youtube.com/watch?v=VGZi4nTgZxs)
 - [scala.bythebay.io: Greg Pfeil, This programmer modeled his code after wooden nesting dolls](https://www.youtube.com/watch?v=lQdpXqD7Uic)
+- [Roll Your Own Shapeless - by Daniel Spiewak](https://www.youtube.com/watch?v=GKIfu1WtSz4)
+- [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier](https://www.youtube.com/watch?v=WupzbiMZrl8)
+- [Daniel Spiewak - Full Stack Review: Understanding a Database Implementation](https://www.youtube.com/watch?v=BohAVitFkzc)
+- [Composable application architecture with reasonably priced monads](https://www.youtube.com/watch?v=M258zVn4m2M)
+- [John A. De Goes - QUARK: A PURELY-FUNCTIONAL SCALA DSL FOR DATA PROCESSING & ANALYTICS](https://www.youtube.com/watch?v=_-GD8VJW8jU)
 
 # Projects
 
@@ -99,3 +106,4 @@
 - https://github.com/SmartBackpacker/core
 - https://github.com/vladciobanu/purescript-halogen-example
 - https://github.com/kubukoz/brick-store
+- https://github.com/tpolecat/tuco
