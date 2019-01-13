@@ -35,6 +35,7 @@
     - [Free as in Monads](https://www.youtube.com/watch?v=cxMo1RMsD0M)
 - 2019-01-12
     - [Enterprise Algebras—Tim Perrett](https://www.youtube.com/watch?v=oAu0MIe072M)
+    - [scale.bythebay.io: Luka Jacobowitz, Building a Tagless Final DSL for WebGL in Scala](https://www.youtube.com/watch?v=1h11efA4k8E)
 
 
 # Queue
