@@ -30,6 +30,7 @@
     - [Matt Parsons - Exceptional Haskell - λC 2018](https://www.youtube.com/watch?v=A5c9kgDYXr8)
 - 2019-01-03 [Next Level MTL - George Wilson - BFPG 2016-06](https://www.youtube.com/watch?v=GZPup5Iuaqw)
 - 2019-01-05 [LambdaConf 2015 - Finally Tagless DSLs and MTL Joseph Abrahamson](https://www.youtube.com/watch?v=JxC1ExlLjgw)
+- 2019-01-06 [YOW! 2014 Edward Kmett - Stop Treading Water: Learning to Learn #YOW](https://www.youtube.com/watch?v=Z8KcCU-p8QA)
 - 2019-01-10 https://monix.io/blog/2018/11/07/tutorial-bracket.html
 - 2019-01-11
     - [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
@@ -94,6 +95,7 @@
 - [Daniel Spiewak - Full Stack Review: Understanding a Database Implementation](https://www.youtube.com/watch?v=BohAVitFkzc)
 - [Composable application architecture with reasonably priced monads](https://www.youtube.com/watch?v=M258zVn4m2M)
 - [John A. De Goes - QUARK: A PURELY-FUNCTIONAL SCALA DSL FOR DATA PROCESSING & ANALYTICS](https://www.youtube.com/watch?v=_-GD8VJW8jU)
+- [Edward Kmett - Type Classes vs. the World](https://www.youtube.com/watch?v=hIZxTQP1ifo)
 
 # Projects
 
