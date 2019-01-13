@@ -7,6 +7,7 @@
 - 2018-12-31 https://blog.jle.im/entry/mtl-is-not-a-monad-transformer-library.html
 - 2019-01-08 https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html
 - 2019-01-10 https://typelevel.org/cats-effect/tutorial/tutorial.html
+- 2019-01-13 http://cvlad.info/haskell/
 
 ## Watched
 
@@ -60,6 +61,8 @@
 - https://www.parsonsmatt.org/2015/11/15/template_haskell.html
 - https://github.com/FintanH/blogs/blob/master/advent-of-schemes.md
 - http://www.tpflug.me/2019/01/07/post-christmas-advent-pt1/
+- https://github.com/vil1/recursion-schemes-cookbook
+- https://medium.com/fuzzy-sharp/purescript-and-haskell-at-lumi-7e8e2b16fb13
 
 ## To watch
 
