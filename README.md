@@ -38,6 +38,7 @@
 - 2019-01-12
     - [Enterprise Algebras—Tim Perrett](https://www.youtube.com/watch?v=oAu0MIe072M)
     - [scale.bythebay.io: Luka Jacobowitz, Building a Tagless Final DSL for WebGL in Scala](https://www.youtube.com/watch?v=1h11efA4k8E)
+- 2019-01-14 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
 
 
 # Queue
@@ -64,13 +65,15 @@
 - http://www.tpflug.me/2019/01/07/post-christmas-advent-pt1/
 - https://github.com/vil1/recursion-schemes-cookbook
 - https://medium.com/fuzzy-sharp/purescript-and-haskell-at-lumi-7e8e2b16fb13
+- http://www.haskellforall.com/2012/05/scrap-your-type-classes.html
+- https://chris-martin.org/2017/interfaces-and-records
+- https://mpickering.github.io/posts/2018-03-20-recordsvstypeclasses.html
 
 ## To watch
 
 - [Maybe Not - Rich Hickey](https://www.youtube.com/watch?v=YR5WdGrpoug)
 - [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
 - [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
-- [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
 - [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74)
 - [Valentin Kasas & Olivier Girardot - Recursion Schemes Without the Barbed Wire (Part 1) - λC 2018](https://www.youtube.com/watch?v=0y0EuoToTco)
 - [Declarative Control Flow with fs2 Stream – Fabio Labella](https://www.youtube.com/watch?v=YSN__0VEsaw)
