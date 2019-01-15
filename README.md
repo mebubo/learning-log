@@ -8,6 +8,9 @@
 - 2019-01-08 https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html
 - 2019-01-10 https://typelevel.org/cats-effect/tutorial/tutorial.html
 - 2019-01-13 http://cvlad.info/haskell/
+- 2019-01-15
+    - https://github.com/input-output-hk/cardano-sl/blob/2f0f9855d26a0b7b4ff34653d5bf4e63546d1f93/docs/monads.md
+    - http://www.tpflug.me/2019/01/14/haskell-nix-vim/
 
 ## Watched
 
@@ -39,6 +42,7 @@
     - [Enterprise Algebras—Tim Perrett](https://www.youtube.com/watch?v=oAu0MIe072M)
     - [scale.bythebay.io: Luka Jacobowitz, Building a Tagless Final DSL for WebGL in Scala](https://www.youtube.com/watch?v=1h11efA4k8E)
 - 2019-01-14 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
+- 2019-01-15 [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier](https://www.youtube.com/watch?v=WupzbiMZrl8)
 
 
 # Queue
@@ -68,6 +72,7 @@
 - http://www.haskellforall.com/2012/05/scrap-your-type-classes.html
 - https://chris-martin.org/2017/interfaces-and-records
 - https://mpickering.github.io/posts/2018-03-20-recordsvstypeclasses.html
+- https://blog.adamretter.org.uk/haskell-io-and-xpath/
 
 ## To watch
 
@@ -94,11 +99,12 @@
 - [Duality and How to Delete Half (minus ε) of Your Code – Greg Pfeil](https://www.youtube.com/watch?v=VGZi4nTgZxs)
 - [scala.bythebay.io: Greg Pfeil, This programmer modeled his code after wooden nesting dolls](https://www.youtube.com/watch?v=lQdpXqD7Uic)
 - [Roll Your Own Shapeless - by Daniel Spiewak](https://www.youtube.com/watch?v=GKIfu1WtSz4)
-- [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier](https://www.youtube.com/watch?v=WupzbiMZrl8)
 - [Daniel Spiewak - Full Stack Review: Understanding a Database Implementation](https://www.youtube.com/watch?v=BohAVitFkzc)
 - [Composable application architecture with reasonably priced monads](https://www.youtube.com/watch?v=M258zVn4m2M)
 - [John A. De Goes - QUARK: A PURELY-FUNCTIONAL SCALA DSL FOR DATA PROCESSING & ANALYTICS](https://www.youtube.com/watch?v=_-GD8VJW8jU)
 - [Edward Kmett - Type Classes vs. the World](https://www.youtube.com/watch?v=hIZxTQP1ifo)
+- [Build Systems à la Carte](https://www.youtube.com/watch?v=BQVT6wiwCxM)
+- [Why the free Monad isn't free - by Kelley Robinson](https://www.youtube.com/watch?v=U0lK0hnbc4U)
 
 # Projects
 
