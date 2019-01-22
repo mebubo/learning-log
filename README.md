@@ -11,6 +11,7 @@
 - 2019-01-15
     - https://github.com/input-output-hk/cardano-sl/blob/2f0f9855d26a0b7b4ff34653d5bf4e63546d1f93/docs/monads.md
     - http://www.tpflug.me/2019/01/14/haskell-nix-vim/
+- 2019-01-22 https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html
 
 ## Watched
 
@@ -43,6 +44,7 @@
     - [scale.bythebay.io: Luka Jacobowitz, Building a Tagless Final DSL for WebGL in Scala](https://www.youtube.com/watch?v=1h11efA4k8E)
 - 2019-01-14 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
 - 2019-01-15 [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier](https://www.youtube.com/watch?v=WupzbiMZrl8)
+- 2019-01-22 [Lenses: A Functional Imperative](https://www.youtube.com/watch?v=efv0SQNde5Q)
 
 
 # Queue
@@ -57,7 +59,6 @@
 - https://www.tweag.io/posts/2018-10-04-capability.html
 - https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html
 - https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/
-- https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html
 - https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html
 - https://recursion-schemes-by-example.chrispenner.ca/
 - https://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/
