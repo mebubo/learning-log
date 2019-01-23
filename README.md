@@ -12,6 +12,7 @@
     - https://github.com/input-output-hk/cardano-sl/blob/2f0f9855d26a0b7b4ff34653d5bf4e63546d1f93/docs/monads.md
     - http://www.tpflug.me/2019/01/14/haskell-nix-vim/
 - 2019-01-22 https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html
+- 2019-01-23 https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html
 
 ## Watched
 
@@ -59,7 +60,6 @@
 - https://www.tweag.io/posts/2018-10-04-capability.html
 - https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html
 - https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/
-- https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html
 - https://recursion-schemes-by-example.chrispenner.ca/
 - https://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/
 - https://mpickering.github.io/posts/2018-09-12-funflow-nix.html
@@ -106,6 +106,9 @@
 - [Edward Kmett - Type Classes vs. the World](https://www.youtube.com/watch?v=hIZxTQP1ifo)
 - [Build Systems à la Carte](https://www.youtube.com/watch?v=BQVT6wiwCxM)
 - [Why the free Monad isn't free - by Kelley Robinson](https://www.youtube.com/watch?v=U0lK0hnbc4U)
+- [Barbara Liskov: Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM)
+- [Edwin Brady - Idris 2: Type-driven development of Idris | Code Mesh LDN 18](https://www.youtube.com/watch?v=mOtKD7ml0NU)
+- [Kyiv Scala meetup v9 - Implementing a game using FP concepts by John A De Goes](https://www.youtube.com/watch?v=XONTFZ4afY0)
 
 # Projects
 
