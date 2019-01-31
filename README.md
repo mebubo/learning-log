@@ -13,6 +13,7 @@
     - http://www.tpflug.me/2019/01/14/haskell-nix-vim/
 - 2019-01-22 https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html
 - 2019-01-23 https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html
+- 2019-01-31 https://lukepalmer.wordpress.com/2010/01/24/haskell-antipattern-existential-typeclass/
 
 ## Watched
 
@@ -46,7 +47,7 @@
 - 2019-01-14 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
 - 2019-01-15 [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier](https://www.youtube.com/watch?v=WupzbiMZrl8)
 - 2019-01-22 [Lenses: A Functional Imperative](https://www.youtube.com/watch?v=efv0SQNde5Q)
-
+- 2019-01-31 [Omer Van Kloeten - Type Your Business](https://www.youtube.com/watch?v=AZ6XWiuj45U)
 
 # Queue
 
@@ -74,6 +75,9 @@
 - https://chris-martin.org/2017/interfaces-and-records
 - https://mpickering.github.io/posts/2018-03-20-recordsvstypeclasses.html
 - https://blog.adamretter.org.uk/haskell-io-and-xpath/
+- https://mmhaskell.com/blog/2019/1/28/why-haskell-iv-typeclasses-vs-inheritance
+- https://medium.com/fuzzy-sharp/building-a-type-safe-embedded-dsl-for-form-components-with-validation-e7ffaaf537e4
+- https://harry.garrood.me/blog/down-with-show-part-1/
 
 ## To watch
 
@@ -109,6 +113,10 @@
 - [Barbara Liskov: Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM)
 - [Edwin Brady - Idris 2: Type-driven development of Idris | Code Mesh LDN 18](https://www.youtube.com/watch?v=mOtKD7ml0NU)
 - [Kyiv Scala meetup v9 - Implementing a game using FP concepts by John A De Goes](https://www.youtube.com/watch?v=XONTFZ4afY0)
+- [YOW! Lambda Jam 2017 Conal Elliott - Teaching New Tricks to Old Programs #YOWLambdaJam](https://www.youtube.com/watch?v=vzLK_xE9Zy8)
+- [Squeal, a Deep Embedding of SQL in Haskell](https://www.youtube.com/watch?v=rWfEQfAaNc4)
+- [11 Levity Polymorphism In Dependent Haskell fixed audio](https://www.youtube.com/watch?v=bDdkeKr9vVw)
+- https://skillsmatter.com/skillscasts/11626-keynote-pushing-types-and-gazing-at-the-stars
 
 # Projects
 
