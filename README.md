@@ -14,6 +14,7 @@
 - 2019-01-22 https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html
 - 2019-01-23 https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html
 - 2019-01-31 https://lukepalmer.wordpress.com/2010/01/24/haskell-antipattern-existential-typeclass/
+- 2019-02-07 https://reasonablypolymorphic.com/blog/writing-technical-posts/
 
 ## Watched
 
@@ -78,6 +79,9 @@
 - https://mmhaskell.com/blog/2019/1/28/why-haskell-iv-typeclasses-vs-inheritance
 - https://medium.com/fuzzy-sharp/building-a-type-safe-embedded-dsl-for-form-components-with-validation-e7ffaaf537e4
 - https://harry.garrood.me/blog/down-with-show-part-1/
+- https://blog.scalac.io/optics-beyond-lenses-with-monocle.html
+- https://mmhaskell.com/blog/2018/8/27/taking-a-look-back-my-mistakes-in-learning-haskell
+- http://reduction.io/essays/rosetta-haskell.html
 
 ## To watch
 
