@@ -48,7 +48,11 @@
 - 2019-01-14 [PS Unscripted - Code Reuse in PS: Fns, Classes, and Interpreters](https://www.youtube.com/watch?v=GlUcCPmH8wI)
 - 2019-01-15 [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier](https://www.youtube.com/watch?v=WupzbiMZrl8)
 - 2019-01-22 [Lenses: A Functional Imperative](https://www.youtube.com/watch?v=efv0SQNde5Q)
+- 2019-01-26
+    - [Lesson 1: Deep Learning 2019 - Image classification](https://www.youtube.com/watch?v=XfoYk_Z5AkI)
+    - [Lesson 2: Deep Learning 2019 - Data cleaning and production; SGD from scratch](https://www.youtube.com/watch?v=ccMHJeQU4Qw)
 - 2019-01-31 [Omer Van Kloeten - Type Your Business](https://www.youtube.com/watch?v=AZ6XWiuj45U)
+- 2019-02-09 [The Tragedy of systemd](https://www.youtube.com/watch?v=o_AIw9bGogo)
 
 # Queue
 
@@ -109,6 +113,7 @@
 - [scala.bythebay.io: Greg Pfeil, This programmer modeled his code after wooden nesting dolls](https://www.youtube.com/watch?v=lQdpXqD7Uic)
 - [Roll Your Own Shapeless - by Daniel Spiewak](https://www.youtube.com/watch?v=GKIfu1WtSz4)
 - [Daniel Spiewak - Full Stack Review: Understanding a Database Implementation](https://www.youtube.com/watch?v=BohAVitFkzc)
+- [Daniel Spiewak - May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
 - [Composable application architecture with reasonably priced monads](https://www.youtube.com/watch?v=M258zVn4m2M)
 - [John A. De Goes - QUARK: A PURELY-FUNCTIONAL SCALA DSL FOR DATA PROCESSING & ANALYTICS](https://www.youtube.com/watch?v=_-GD8VJW8jU)
 - [Edward Kmett - Type Classes vs. the World](https://www.youtube.com/watch?v=hIZxTQP1ifo)
@@ -121,6 +126,8 @@
 - [Squeal, a Deep Embedding of SQL in Haskell](https://www.youtube.com/watch?v=rWfEQfAaNc4)
 - [11 Levity Polymorphism In Dependent Haskell fixed audio](https://www.youtube.com/watch?v=bDdkeKr9vVw)
 - https://skillsmatter.com/skillscasts/11626-keynote-pushing-types-and-gazing-at-the-stars
+- [Describing Data...with free applicative functors (and more)—Kris Nuttycombe](https://www.youtube.com/watch?v=oRLkb6mqvVM)
+- https://skillsmatter.com/skillscasts/13003-type-driven-development-in-practice-cats-and-akka-http
 
 # Projects
 
