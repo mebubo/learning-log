@@ -53,6 +53,7 @@
     - [Lesson 2: Deep Learning 2019 - Data cleaning and production; SGD from scratch](https://www.youtube.com/watch?v=ccMHJeQU4Qw)
 - 2019-01-31 [Omer Van Kloeten - Type Your Business](https://www.youtube.com/watch?v=AZ6XWiuj45U)
 - 2019-02-09 [The Tragedy of systemd](https://www.youtube.com/watch?v=o_AIw9bGogo)
+- 2019-02-10 [Daniel Spiewak - May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
 
 # Queue
 
@@ -113,7 +114,6 @@
 - [scala.bythebay.io: Greg Pfeil, This programmer modeled his code after wooden nesting dolls](https://www.youtube.com/watch?v=lQdpXqD7Uic)
 - [Roll Your Own Shapeless - by Daniel Spiewak](https://www.youtube.com/watch?v=GKIfu1WtSz4)
 - [Daniel Spiewak - Full Stack Review: Understanding a Database Implementation](https://www.youtube.com/watch?v=BohAVitFkzc)
-- [Daniel Spiewak - May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
 - [Composable application architecture with reasonably priced monads](https://www.youtube.com/watch?v=M258zVn4m2M)
 - [John A. De Goes - QUARK: A PURELY-FUNCTIONAL SCALA DSL FOR DATA PROCESSING & ANALYTICS](https://www.youtube.com/watch?v=_-GD8VJW8jU)
 - [Edward Kmett - Type Classes vs. the World](https://www.youtube.com/watch?v=hIZxTQP1ifo)
