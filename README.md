@@ -87,6 +87,8 @@
 - https://blog.scalac.io/optics-beyond-lenses-with-monocle.html
 - https://mmhaskell.com/blog/2018/8/27/taking-a-look-back-my-mistakes-in-learning-haskell
 - http://reduction.io/essays/rosetta-haskell.html
+- http://magnus.therning.org/posts/2019-02-02-000-the-readert-design-pattern-or-tagless-final-.html
+- https://serokell.io/blog/2018/12/07/tagless-final
 
 ## To watch
 
