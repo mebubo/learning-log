@@ -130,6 +130,7 @@
 - https://skillsmatter.com/skillscasts/11626-keynote-pushing-types-and-gazing-at-the-stars
 - [Describing Data...with free applicative functors (and more)—Kris Nuttycombe](https://www.youtube.com/watch?v=oRLkb6mqvVM)
 - https://skillsmatter.com/skillscasts/13003-type-driven-development-in-practice-cats-and-akka-http
+- [Scala Wave 2018 - RÚNAR BJARNASON - Compositional Programming](https://www.youtube.com/watch?v=ElLxn_l7P2I)
 
 # Projects
 
