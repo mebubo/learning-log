@@ -89,6 +89,10 @@
 - http://reduction.io/essays/rosetta-haskell.html
 - http://magnus.therning.org/posts/2019-02-02-000-the-readert-design-pattern-or-tagless-final-.html
 - https://serokell.io/blog/2018/12/07/tagless-final
+- http://www.haskellforall.com/2019/02/haskell-command-line-utility-using-ghc.html
+- [Making a simple Haskell CLI without anything fancy](https://qiita.com/kimagure/items/9b33a5fa48baf105abe4)
+- https://codurance.com/2019/02/11/bank-kata-in-haskell-state/
+- https://vaibhavsagar.com/blog/2019/02/12/refactoring-haskell/index.html
 
 ## To watch
 
@@ -131,6 +135,7 @@
 - [Describing Data...with free applicative functors (and more)—Kris Nuttycombe](https://www.youtube.com/watch?v=oRLkb6mqvVM)
 - https://skillsmatter.com/skillscasts/13003-type-driven-development-in-practice-cats-and-akka-http
 - [Scala Wave 2018 - RÚNAR BJARNASON - Compositional Programming](https://www.youtube.com/watch?v=ElLxn_l7P2I)
+- [Greg Pfeil - Category-parametric Programming](https://www.youtube.com/watch?v=QE3zqV4kVEo)
 
 # Projects
 
@@ -138,6 +143,7 @@
 - https://github.com/tweag/capability
 - https://github.com/typelevel/cats-tagless
 - https://github.com/oleg-py/meow-mtl
+- https://github.com/lexi-lambda/freer-simple
 
 ## Examples of mtl-style / tagless final / free
 
