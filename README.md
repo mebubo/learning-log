@@ -93,6 +93,10 @@
 - [Making a simple Haskell CLI without anything fancy](https://qiita.com/kimagure/items/9b33a5fa48baf105abe4)
 - https://codurance.com/2019/02/11/bank-kata-in-haskell-state/
 - https://vaibhavsagar.com/blog/2019/02/12/refactoring-haskell/index.html
+- https://reasonablypolymorphic.com/blog/freer-monads/
+- https://reasonablypolymorphic.com/blog/too-fast-too-free/
+- https://gist.github.com/gcanti/8b4bddd6711c10ca3ce7073abd1949a3
+- https://gist.github.com/gcanti/453e5419fbcabe078d933ab21f0df8bf
 
 ## To watch
 
