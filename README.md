@@ -97,6 +97,7 @@
 - https://reasonablypolymorphic.com/blog/too-fast-too-free/
 - https://gist.github.com/gcanti/8b4bddd6711c10ca3ce7073abd1949a3
 - https://gist.github.com/gcanti/453e5419fbcabe078d933ab21f0df8bf
+- https://wickstrom.tech/programming/2019/03/02/property-based-testing-in-a-screencast-editor-introduction.html
 
 ## To watch
 
