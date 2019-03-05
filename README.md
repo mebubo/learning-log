@@ -144,6 +144,9 @@
 - https://skillsmatter.com/skillscasts/13003-type-driven-development-in-practice-cats-and-akka-http
 - [Scala Wave 2018 - RÚNAR BJARNASON - Compositional Programming](https://www.youtube.com/watch?v=ElLxn_l7P2I)
 - [Greg Pfeil - Category-parametric Programming](https://www.youtube.com/watch?v=QE3zqV4kVEo)
+- [Streams, effects and beautiful folds, a winning trilogy by Eric Torreborre](https://www.youtube.com/watch?v=wFpUG2jGxVg)
+- [Gabriel Gonzales: Applied category theory and abstract algebra - λC Winter Retreat 2017](https://www.youtube.com/watch?v=WsA7GtUQeB8)
+- [Scala World 2017 Closing Remarks](https://www.youtube.com/watch?v=dfpIvYZwvdY)
 
 # Projects
 
