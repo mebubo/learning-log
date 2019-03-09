@@ -54,6 +54,7 @@
 - 2019-01-31 [Omer Van Kloeten - Type Your Business](https://www.youtube.com/watch?v=AZ6XWiuj45U)
 - 2019-02-09 [The Tragedy of systemd](https://www.youtube.com/watch?v=o_AIw9bGogo)
 - 2019-02-10 [Daniel Spiewak - May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
+- 2019-03-08 [Scala World 2017 Closing Remarks](https://www.youtube.com/watch?v=dfpIvYZwvdY)
 
 # Queue
 
@@ -146,7 +147,6 @@
 - [Greg Pfeil - Category-parametric Programming](https://www.youtube.com/watch?v=QE3zqV4kVEo)
 - [Streams, effects and beautiful folds, a winning trilogy by Eric Torreborre](https://www.youtube.com/watch?v=wFpUG2jGxVg)
 - [Gabriel Gonzales: Applied category theory and abstract algebra - λC Winter Retreat 2017](https://www.youtube.com/watch?v=WsA7GtUQeB8)
-- [Scala World 2017 Closing Remarks](https://www.youtube.com/watch?v=dfpIvYZwvdY)
 
 # Projects
 
