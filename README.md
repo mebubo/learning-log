@@ -102,6 +102,7 @@
 - http://degoes.net/articles/zio-environment
 - https://overreacted.io/react-as-a-ui-runtime/
 - https://sanctum.geek.nz/arabesque/vim-anti-patterns/
+- https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d
 
 ## To watch
 
