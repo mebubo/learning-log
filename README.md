@@ -56,6 +56,7 @@
 - 2019-02-09 [The Tragedy of systemd](https://www.youtube.com/watch?v=o_AIw9bGogo)
 - 2019-02-10 [Daniel Spiewak - May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
 - 2019-03-08 [Scala World 2017 Closing Remarks](https://www.youtube.com/watch?v=dfpIvYZwvdY)
+- 2019-03-10 [No one at Google uses MapReduce anymore - Cloud Dataflow explained for dummies](https://www.youtube.com/watch?v=AZht1rkHIxk)
 
 # Queue
 
