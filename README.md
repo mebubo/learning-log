@@ -153,6 +153,8 @@
 - [Greg Pfeil - Category-parametric Programming](https://www.youtube.com/watch?v=QE3zqV4kVEo)
 - [Streams, effects and beautiful folds, a winning trilogy by Eric Torreborre](https://www.youtube.com/watch?v=wFpUG2jGxVg)
 - [Gabriel Gonzales: Applied category theory and abstract algebra - λC Winter Retreat 2017](https://www.youtube.com/watch?v=WsA7GtUQeB8)
+- [RIO, a standard library for Haskell](https://www.youtube.com/watch?v=gu0ZCqQe3BY)
+- [Real-Time Stream Analytics with Google Cloud Dataflow: Common Use Cases & Patterns (Cloud Next '18)')](https://www.youtube.com/watch?v=7lJyq1hw_KI)
 
 # Projects
 
