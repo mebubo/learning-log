@@ -16,6 +16,7 @@
 - 2019-01-31 https://lukepalmer.wordpress.com/2010/01/24/haskell-antipattern-existential-typeclass/
 - 2019-02-07 https://reasonablypolymorphic.com/blog/writing-technical-posts/
 - 2019-03-10 https://blog.acolyer.org/2015/08/18/the-dataflow-model-a-practical-approach-to-balancing-correctness-latency-and-cost-in-massive-scale-unbounded-out-of-order-data-processing/
+- 2019-03-31 https://matthewbauer.us/blog/static-nix.html
 
 ## Watched
 
