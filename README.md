@@ -57,6 +57,7 @@
 - 2019-02-10 [Daniel Spiewak - May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
 - 2019-03-08 [Scala World 2017 Closing Remarks](https://www.youtube.com/watch?v=dfpIvYZwvdY)
 - 2019-03-10 [No one at Google uses MapReduce anymore - Cloud Dataflow explained for dummies](https://www.youtube.com/watch?v=AZht1rkHIxk)
+- 2019-03-31 [John A. De Goes at #ScalaUA - Thinking Functionally](https://www.youtube.com/watch?v=-KA3BSdqYug)
 
 # Queue
 
@@ -108,6 +109,7 @@
 - https://blogs.ncl.ac.uk/andreymokhov/selective/
 - https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
 - https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
+- https://discourse.haskell.org/t/local-capabilities-with-mtl/231
 
 ## To watch
 
