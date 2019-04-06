@@ -16,7 +16,9 @@
 - 2019-01-31 https://lukepalmer.wordpress.com/2010/01/24/haskell-antipattern-existential-typeclass/
 - 2019-02-07 https://reasonablypolymorphic.com/blog/writing-technical-posts/
 - 2019-03-10 https://blog.acolyer.org/2015/08/18/the-dataflow-model-a-practical-approach-to-balancing-correctness-latency-and-cost-in-massive-scale-unbounded-out-of-order-data-processing/
+- 2019-03-29 https://compiletoi.net/garcon-theres-a-catamorphism-in-my-python/
 - 2019-03-31 https://matthewbauer.us/blog/static-nix.html
+- 2019-04-04 https://metarabbit.wordpress.com/2019/03/12/nixml-nix-yaml-for-easy-reproducible-environments/
 
 ## Watched
 
@@ -59,6 +61,10 @@
 - 2019-03-08 [Scala World 2017 Closing Remarks](https://www.youtube.com/watch?v=dfpIvYZwvdY)
 - 2019-03-10 [No one at Google uses MapReduce anymore - Cloud Dataflow explained for dummies](https://www.youtube.com/watch?v=AZht1rkHIxk)
 - 2019-03-31 [John A. De Goes at #ScalaUA - Thinking Functionally](https://www.youtube.com/watch?v=-KA3BSdqYug)
+- 2019-04-04
+    - [ScalaSphere: Build Server Protocol and new IDEAs by Justin Kaeser & Jorge Vicente Cantero](https://www.youtube.com/watch?v=Ppj0EFns59M)
+    - [Justin Kaeser at #ScalaUA - Integrating Developer Experience - Build Server Protocol and beyond](https://www.youtube.com/watch?v=7qftYND_s_c)
+- 2019-04-06 [Jon Pretty at #ScalaUA - How I rebuilt the Typelevel Ecosystem with Fury](https://www.youtube.com/watch?v=WBPGhnHO52w)
 
 # Queue
 
