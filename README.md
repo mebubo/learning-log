@@ -65,6 +65,8 @@
     - [ScalaSphere: Build Server Protocol and new IDEAs by Justin Kaeser & Jorge Vicente Cantero](https://www.youtube.com/watch?v=Ppj0EFns59M)
     - [Justin Kaeser at #ScalaUA - Integrating Developer Experience - Build Server Protocol and beyond](https://www.youtube.com/watch?v=7qftYND_s_c)
 - 2019-04-06 [Jon Pretty at #ScalaUA - How I rebuilt the Typelevel Ecosystem with Fury](https://www.youtube.com/watch?v=WBPGhnHO52w)
+- 2019-04-09 [Exploring Java Perf FlameGraphs - Nitsan Wakart](https://vimeo.com/233671554)
+- 2019-04-10 [USENIX ATC '17: Visualizing Performance with Flame Graphs](https://www.youtube.com/watch?v=D53T1Ejig1Q)
 
 # Queue
 
