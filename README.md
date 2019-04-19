@@ -119,6 +119,7 @@
 - https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
 - https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
 - https://discourse.haskell.org/t/local-capabilities-with-mtl/231
+- https://bodil.lol/parser-combinators/
 
 ## To watch
 
