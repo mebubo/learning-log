@@ -67,6 +67,10 @@
 - 2019-04-06 [Jon Pretty at #ScalaUA - How I rebuilt the Typelevel Ecosystem with Fury](https://www.youtube.com/watch?v=WBPGhnHO52w)
 - 2019-04-09 [Exploring Java Perf FlameGraphs - Nitsan Wakart](https://vimeo.com/233671554)
 - 2019-04-10 [USENIX ATC '17: Visualizing Performance with Flame Graphs](https://www.youtube.com/watch?v=D53T1Ejig1Q)
+- 2019-05-01
+    - [Nixpkgs Overlays – A place for all excluded packages by Nicolas B. Pierron](https://www.youtube.com/watch?v=W85mF1zWA2o)
+    - [Sneaking Nix at $work – and become a hero, hopefully by zimbatm](https://www.youtube.com/watch?v=ycjlpg296iI)
+    - [Eelco Dolstra - the Nix roadmap](https://www.youtube.com/watch?v=8M6yvJC00J4)
 
 # Queue
 
