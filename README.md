@@ -71,6 +71,7 @@
     - [Nixpkgs Overlays – A place for all excluded packages by Nicolas B. Pierron](https://www.youtube.com/watch?v=W85mF1zWA2o)
     - [Sneaking Nix at $work – and become a hero, hopefully by zimbatm](https://www.youtube.com/watch?v=ycjlpg296iI)
     - [Eelco Dolstra - the Nix roadmap](https://www.youtube.com/watch?v=8M6yvJC00J4)
+- 2019-05-26 [THE LAST FRONTIER AND BEYOND - Valentin Kasas | Scalar 2019](https://www.youtube.com/watch?v=Uk-xCRn7_TQ)
 
 # Queue
 
