@@ -19,6 +19,7 @@
 - 2019-03-29 https://compiletoi.net/garcon-theres-a-catamorphism-in-my-python/
 - 2019-03-31 https://matthewbauer.us/blog/static-nix.html
 - 2019-04-04 https://metarabbit.wordpress.com/2019/03/12/nixml-nix-yaml-for-easy-reproducible-environments/
+- 2019-06-03 https://reasonablypolymorphic.com/blog/prospecting-free-monads/
 
 ## Watched
 
@@ -72,6 +73,7 @@
     - [Sneaking Nix at $work – and become a hero, hopefully by zimbatm](https://www.youtube.com/watch?v=ycjlpg296iI)
     - [Eelco Dolstra - the Nix roadmap](https://www.youtube.com/watch?v=8M6yvJC00J4)
 - 2019-05-26 [THE LAST FRONTIER AND BEYOND - Valentin Kasas | Scalar 2019](https://www.youtube.com/watch?v=Uk-xCRn7_TQ)
+- 2019-06-02 [Julien Tournay - Better, faster, stronger Coder. Improving data processing @Spotify](https://www.youtube.com/watch?v=UN9-8MDTMiQ)
 
 # Queue
 
