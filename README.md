@@ -127,6 +127,9 @@
 - https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
 - https://discourse.haskell.org/t/local-capabilities-with-mtl/231
 - https://bodil.lol/parser-combinators/
+- https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
+- https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
+- https://blog.bazel.build/2019/03/31/rules-jvm-external-maven.html
 
 ## To watch
 
@@ -174,6 +177,7 @@
 - [Gabriel Gonzales: Applied category theory and abstract algebra - λC Winter Retreat 2017](https://www.youtube.com/watch?v=WsA7GtUQeB8)
 - [RIO, a standard library for Haskell](https://www.youtube.com/watch?v=gu0ZCqQe3BY)
 - [Real-Time Stream Analytics with Google Cloud Dataflow: Common Use Cases & Patterns (Cloud Next '18)')](https://www.youtube.com/watch?v=7lJyq1hw_KI)
+- [From Dependency injection to dependency rejection - Mark Seemann](https://www.youtube.com/watch?v=cxs7oLGrxQ4)
 
 # Projects
 
@@ -192,3 +196,4 @@
 - https://github.com/vladciobanu/purescript-halogen-example
 - https://github.com/kubukoz/brick-store
 - https://github.com/tpolecat/tuco
+- https://github.com/pauljamescleary/scala-pet-store
