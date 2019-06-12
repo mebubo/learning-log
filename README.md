@@ -178,6 +178,9 @@
 - [RIO, a standard library for Haskell](https://www.youtube.com/watch?v=gu0ZCqQe3BY)
 - [Real-Time Stream Analytics with Google Cloud Dataflow: Common Use Cases & Patterns (Cloud Next '18)')](https://www.youtube.com/watch?v=7lJyq1hw_KI)
 - [From Dependency injection to dependency rejection - Mark Seemann](https://www.youtube.com/watch?v=cxs7oLGrxQ4)
+- [Livecoding Haskell](https://www.youtube.com/user/fredericmenou/videos)
+- [Is It Time to Rewrite the Operating System in Rust?](https://www.youtube.com/watch?v=HgtRAbE1nBM)
+- [Applied Category Theory (@ MIT 2019)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 
 # Projects
 
