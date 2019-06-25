@@ -20,6 +20,7 @@
 - 2019-03-31 https://matthewbauer.us/blog/static-nix.html
 - 2019-04-04 https://metarabbit.wordpress.com/2019/03/12/nixml-nix-yaml-for-easy-reproducible-environments/
 - 2019-06-03 https://reasonablypolymorphic.com/blog/prospecting-free-monads/
+- 2019-06-25 https://reasonablypolymorphic.com/blog/typeholes/
 
 ## Watched
 
