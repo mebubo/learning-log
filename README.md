@@ -75,6 +75,15 @@
     - [Eelco Dolstra - the Nix roadmap](https://www.youtube.com/watch?v=8M6yvJC00J4)
 - 2019-05-26 [THE LAST FRONTIER AND BEYOND - Valentin Kasas | Scalar 2019](https://www.youtube.com/watch?v=Uk-xCRn7_TQ)
 - 2019-06-02 [Julien Tournay - Better, faster, stronger Coder. Improving data processing @Spotify](https://www.youtube.com/watch?v=UN9-8MDTMiQ)
+- 2019-06-19 [Metals: rich code editing for Scala in VS Code, Vim, Emacs and beyond](https://portal.klewel.com/watch/webcast/scala-days-2019/talk/8/)
+- 2019-06-22
+    - [Applied Category Theory. Chapter 1, lecture 1 (Spivak)](https://www.youtube.com/watch?v=UusLtx9fIjs)
+    - [Applied Category Theory. Chapter 1, lecture 2 (Fong)](https://www.youtube.com/watch?v=2BYl7NgHjvc)
+- 2019-06-23 [Pure Functional Database Programming‚ without JDBC](https://portal.klewel.com/watch/webcast/scala-days-2019/talk/28/)
+- 2019-06-27
+    - [Meet Bloop and Get More Productive with Scala by Martin Duhem and Vicente Cantero Jorge](https://www.youtube.com/watch?v=O3H0U2BjUq8)
+    - [WebRTC Update 2017](https://www.youtube.com/watch?v=PEXnbTyygi4)
+    - [YOW! Lambda Jam 2017 Conal Elliott - Teaching New Tricks to Old Programs #YOWLambdaJam](https://www.youtube.com/watch?v=vzLK_xE9Zy8)
 
 # Queue
 
@@ -131,6 +140,7 @@
 - https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
 - https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
 - https://blog.bazel.build/2019/03/31/rules-jvm-external-maven.html
+- https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 ## To watch
 
@@ -182,6 +192,7 @@
 - [Livecoding Haskell](https://www.youtube.com/user/fredericmenou/videos)
 - [Is It Time to Rewrite the Operating System in Rust?](https://www.youtube.com/watch?v=HgtRAbE1nBM)
 - [Applied Category Theory (@ MIT 2019)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+- [Property-Based Testing The Ugly Parts: Case Studies from Komposition - Oskar Wickström](https://www.youtube.com/watch?v=z2ete8VZnZY)
 
 # Projects
 
