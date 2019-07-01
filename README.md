@@ -84,6 +84,8 @@
     - [Meet Bloop and Get More Productive with Scala by Martin Duhem and Vicente Cantero Jorge](https://www.youtube.com/watch?v=O3H0U2BjUq8)
     - [WebRTC Update 2017](https://www.youtube.com/watch?v=PEXnbTyygi4)
     - [YOW! Lambda Jam 2017 Conal Elliott - Teaching New Tricks to Old Programs #YOWLambdaJam](https://www.youtube.com/watch?v=vzLK_xE9Zy8)
+- 2019-06-28
+    - [Introduction to NixOS - Brownbag by Geoffrey Huntley](https://www.youtube.com/watch?v=tl9I-R83lKo)
 
 # Queue
 
@@ -141,6 +143,7 @@
 - https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
 - https://blog.bazel.build/2019/03/31/rules-jvm-external-maven.html
 - https://nixos.org/~eelco/pubs/phd-thesis.pdf
+- https://blog.ploeh.dk/2019/07/01/yes-silver-bullet/
 
 ## To watch
 
@@ -193,6 +196,9 @@
 - [Is It Time to Rewrite the Operating System in Rust?](https://www.youtube.com/watch?v=HgtRAbE1nBM)
 - [Applied Category Theory (@ MIT 2019)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 - [Property-Based Testing The Ugly Parts: Case Studies from Komposition - Oskar Wickström](https://www.youtube.com/watch?v=z2ete8VZnZY)
+- [Galois, Inc. Tech: Teaching Haskell in the Real World](https://www.youtube.com/watch?v=AVqApGBlx5k)
+- [Haskell 101](https://www.youtube.com/watch?v=cTN1Qar4HSw)
+- [Haskell 102](https://www.youtube.com/watch?v=Ug9yJnOYR4U)
 
 # Projects
 
