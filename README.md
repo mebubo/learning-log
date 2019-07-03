@@ -150,6 +150,7 @@
 - https://blog.bazel.build/2019/03/31/rules-jvm-external-maven.html
 - https://nixos.org/~eelco/pubs/phd-thesis.pdf
 - https://blog.ploeh.dk/2019/07/01/yes-silver-bullet/
+- https://github.com/github/semantic/blob/master/docs/why-haskell.md
 
 ## To watch
 
