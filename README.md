@@ -21,6 +21,7 @@
 - 2019-04-04 https://metarabbit.wordpress.com/2019/03/12/nixml-nix-yaml-for-easy-reproducible-environments/
 - 2019-06-03 https://reasonablypolymorphic.com/blog/prospecting-free-monads/
 - 2019-06-25 https://reasonablypolymorphic.com/blog/typeholes/
+- 2019-07-03 https://websitebeaver.com/insanely-simple-webrtc-video-chat-using-firebase-with-codepen-demo
 
 ## Watched
 
@@ -86,6 +87,11 @@
     - [YOW! Lambda Jam 2017 Conal Elliott - Teaching New Tricks to Old Programs #YOWLambdaJam](https://www.youtube.com/watch?v=vzLK_xE9Zy8)
 - 2019-06-28
     - [Introduction to NixOS - Brownbag by Geoffrey Huntley](https://www.youtube.com/watch?v=tl9I-R83lKo)
+- 2019-07-03
+    - [Brave New World - tales of PureScript and Haskell in production - Felix Mulder](https://www.youtube.com/watch?v=QJQRY9xsFkw)
+    - [Seeing Arrows Below the Code - Narek Asadorian](https://www.youtube.com/watch?v=qVR-OWvy_Go)
+    - [Stable Marriage Problem - Numberphile](https://www.youtube.com/watch?v=Qcv1IqHWAzg)
+    - [Stable Marriage Problem (the math bit)](https://www.youtube.com/watch?v=LtTV6rIxhdo)
 
 # Queue
 
@@ -199,6 +205,9 @@
 - [Galois, Inc. Tech: Teaching Haskell in the Real World](https://www.youtube.com/watch?v=AVqApGBlx5k)
 - [Haskell 101](https://www.youtube.com/watch?v=cTN1Qar4HSw)
 - [Haskell 102](https://www.youtube.com/watch?v=Ug9yJnOYR4U)
+- [A Categorical View of Computational Effects](https://www.youtube.com/watch?v=6t6bsWVOIzs)
+- [YOW! Lambda Jam 2019 - Bartosz Milewski - A Taste of Type Theory](https://www.youtube.com/watch?v=Nvw74z8uQVU)
+- [YOW! Lambda Jam 2019 - Edward Kmett - Logic Programming à la Carte](https://www.youtube.com/watch?v=KxeHGcbh-4c)
 
 # Projects
 
