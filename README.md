@@ -22,6 +22,13 @@
 - 2019-06-03 https://reasonablypolymorphic.com/blog/prospecting-free-monads/
 - 2019-06-25 https://reasonablypolymorphic.com/blog/typeholes/
 - 2019-07-03 https://websitebeaver.com/insanely-simple-webrtc-video-chat-using-firebase-with-codepen-demo
+- 2019-07-15 https://www.parsonsmatt.org/2019/03/22/return_a_function_to_avoid_effects.html
+- 2019-07-16 https://chapeau.freevariable.com/2018/06/writing-generic-functions-for-rdds.html
+- 2019-07-17
+    - https://timperrett.com/2013/11/21/free-monads-part-1/
+    - https://typelevel.org/cats/datatypes/freemonad.html
+- 2019-07-18
+    - https://towardsdatascience.com/gradient-descend-with-free-monads-ebf9a23bece5
 
 ## Watched
 
@@ -92,6 +99,14 @@
     - [Seeing Arrows Below the Code - Narek Asadorian](https://www.youtube.com/watch?v=qVR-OWvy_Go)
     - [Stable Marriage Problem - Numberphile](https://www.youtube.com/watch?v=Qcv1IqHWAzg)
     - [Stable Marriage Problem (the math bit)](https://www.youtube.com/watch?v=LtTV6rIxhdo)
+- 2019-07-13
+    - [scale.bythebay.io: Paul Cleary, Scala for the Rest of Us](https://www.youtube.com/watch?v=CEv9KrjTF8g)
+- 2019-07-17
+    - [Describing Data...with free applicative functors (and more)—Kris Nuttycombe](https://www.youtube.com/watch?v=oRLkb6mqvVM)
+    - [Move Over Free Monads: Make Way for Free Applicatives! — John de Goes](https://www.youtube.com/watch?v=H28QqxO7Ihc)
+- 2019-07-20
+    - [Why the free Monad isn't free - by Kelley Robinson](https://www.youtube.com/watch?v=U0lK0hnbc4U)
+    - [Free as in Monads](https://www.youtube.com/watch?v=cxMo1RMsD0M)
 
 # Queue
 
@@ -151,6 +166,8 @@
 - https://nixos.org/~eelco/pubs/phd-thesis.pdf
 - https://blog.ploeh.dk/2019/07/01/yes-silver-bullet/
 - https://github.com/github/semantic/blob/master/docs/why-haskell.md
+- Andrey Mokhov, Neil Mitchell, Simon Peyton Jones. 2018. Build Systems à la Carte.
+- Paolo Capriotti, Ambrus Kaposi. 2014. Free Applicative Functors.
 
 ## To watch
 
@@ -190,7 +207,6 @@
 - [Squeal, a Deep Embedding of SQL in Haskell](https://www.youtube.com/watch?v=rWfEQfAaNc4)
 - [11 Levity Polymorphism In Dependent Haskell fixed audio](https://www.youtube.com/watch?v=bDdkeKr9vVw)
 - https://skillsmatter.com/skillscasts/11626-keynote-pushing-types-and-gazing-at-the-stars
-- [Describing Data...with free applicative functors (and more)—Kris Nuttycombe](https://www.youtube.com/watch?v=oRLkb6mqvVM)
 - https://skillsmatter.com/skillscasts/13003-type-driven-development-in-practice-cats-and-akka-http
 - [Scala Wave 2018 - RÚNAR BJARNASON - Compositional Programming](https://www.youtube.com/watch?v=ElLxn_l7P2I)
 - [Greg Pfeil - Category-parametric Programming](https://www.youtube.com/watch?v=QE3zqV4kVEo)
@@ -209,6 +225,9 @@
 - [A Categorical View of Computational Effects](https://www.youtube.com/watch?v=6t6bsWVOIzs)
 - [YOW! Lambda Jam 2019 - Bartosz Milewski - A Taste of Type Theory](https://www.youtube.com/watch?v=Nvw74z8uQVU)
 - [YOW! Lambda Jam 2019 - Edward Kmett - Logic Programming à la Carte](https://www.youtube.com/watch?v=KxeHGcbh-4c)
+- [Config-as-code? Ok, mais proprement. Gotez au dhall - Clément DELAFARGUE - Web2Day 2019](https://www.youtube.com/watch?v=sb4LRqJsYPc)
+- [Barbara Liskov, 2008 ACM Turing Award Recipient](https://www.youtube.com/watch?v=O6By99JW_V8)
+- [An Intuitive Guide to Combining Free Monad and Free Applicative – Cameron Joannidis](https://www.youtube.com/watch?v=Qg48XucSvlg)
 
 # Projects
 
@@ -228,3 +247,4 @@
 - https://github.com/kubukoz/brick-store
 - https://github.com/tpolecat/tuco
 - https://github.com/pauljamescleary/scala-pet-store
+- https://github.com/fthomas/scala-steward
