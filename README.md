@@ -107,6 +107,8 @@
 - 2019-07-20
     - [Why the free Monad isn't free - by Kelley Robinson](https://www.youtube.com/watch?v=U0lK0hnbc4U)
     - [Free as in Monads](https://www.youtube.com/watch?v=cxMo1RMsD0M)
+- 2019-07-24
+    - [Efficient Nanopass Compilers using Cats and Matryoshka - Greg Pfeil](https://www.youtube.com/watch?v=TQIHRBXM75E)
 
 # Queue
 
