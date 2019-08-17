@@ -29,6 +29,9 @@
     - https://typelevel.org/cats/datatypes/freemonad.html
 - 2019-07-18
     - https://towardsdatascience.com/gradient-descend-with-free-monads-ebf9a23bece5
+- 2019-08-01
+    - https://blog.univalence.io/implicit-encoder-sparksession-configuration-quelques-astuces-pour-structurer-du-code-spark/
+    - https://chrisdone.com/posts/clientside-programming-haskell/
 
 ## Watched
 
@@ -109,6 +112,12 @@
     - [Free as in Monads](https://www.youtube.com/watch?v=cxMo1RMsD0M)
 - 2019-07-24
     - [Efficient Nanopass Compilers using Cats and Matryoshka - Greg Pfeil](https://www.youtube.com/watch?v=TQIHRBXM75E)
+- 2019-07-25
+    - [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
+- 2019-08-02
+    - [The Type Astronaut's Guide to Shapeless—Dave Gurnell](https://www.youtube.com/watch?v=Zt6LjUnOcFQ)
+- 2019-08-17
+    - [Scale By The Bay 2018: Michael Pilquist, Concurrency with Cats-effect](https://www.youtube.com/watch?v=Gig-f_HXvLI)
 
 # Queue
 
@@ -170,12 +179,14 @@
 - https://github.com/github/semantic/blob/master/docs/why-haskell.md
 - Andrey Mokhov, Neil Mitchell, Simon Peyton Jones. 2018. Build Systems à la Carte.
 - Paolo Capriotti, Ambrus Kaposi. 2014. Free Applicative Functors.
+- https://medium.com/@olivier.melois/a-rate-limiter-in-15-lines-of-code-with-cats-effect-af09d838857a
+- https://blogs.ncl.ac.uk/andreymokhov/stroll/
+- https://www.andrew.cmu.edu/user/erijke/hott/
 
 ## To watch
 
 - [Maybe Not - Rich Hickey](https://www.youtube.com/watch?v=YR5WdGrpoug)
 - [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
-- [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
 - [PS Unscripted - Free From Tree & Halogen VDOM](https://www.youtube.com/watch?v=eKkxmVFcd74)
 - [Valentin Kasas & Olivier Girardot - Recursion Schemes Without the Barbed Wire (Part 1) - λC 2018](https://www.youtube.com/watch?v=0y0EuoToTco)
 - [Declarative Control Flow with fs2 Stream – Fabio Labella](https://www.youtube.com/watch?v=YSN__0VEsaw)
@@ -230,6 +241,11 @@
 - [Config-as-code? Ok, mais proprement. Gotez au dhall - Clément DELAFARGUE - Web2Day 2019](https://www.youtube.com/watch?v=sb4LRqJsYPc)
 - [Barbara Liskov, 2008 ACM Turing Award Recipient](https://www.youtube.com/watch?v=O6By99JW_V8)
 - [An Intuitive Guide to Combining Free Monad and Free Applicative – Cameron Joannidis](https://www.youtube.com/watch?v=Qg48XucSvlg)
+- [Reflex: Practical Functional Reactive Programming (FRP) in Haskell (part 1)](https://www.youtube.com/watch?v=mYvkcskJbc4)
+- [Selective Applicative Functors by Andrey Mokhov](https://www.youtube.com/watch?v=7vruj4gj38Q)
+- [Jon Pretty Type Members vs Type Parameters - NE Scala 2016](https://www.youtube.com/watch?v=R8GksuRw3VI)
+- https://skillsmatter.com/skillscasts/6875-workshop-shapeless-for-mortals
+- [Composing Contracts: An Adventure in Financial Engineering - Simon Peyton-Jones](https://www.youtube.com/watch?v=dd1F6GrivhI)
 
 # Projects
 
