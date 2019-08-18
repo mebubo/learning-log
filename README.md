@@ -32,6 +32,8 @@
 - 2019-08-01
     - https://blog.univalence.io/implicit-encoder-sparksession-configuration-quelques-astuces-pour-structurer-du-code-spark/
     - https://chrisdone.com/posts/clientside-programming-haskell/
+- 2019-08-18 https://tpolecat.github.io/2015/04/29/f-bounds.html
+- 2019-08-19 https://typelevel.org/cats/typeclasses/\*
 
 ## Watched
 
@@ -118,6 +120,8 @@
     - [The Type Astronaut's Guide to Shapeless—Dave Gurnell](https://www.youtube.com/watch?v=Zt6LjUnOcFQ)
 - 2019-08-17
     - [Scale By The Bay 2018: Michael Pilquist, Concurrency with Cats-effect](https://www.youtube.com/watch?v=Gig-f_HXvLI)
+- 2019-08-18
+    - [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)
 
 # Queue
 
