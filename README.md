@@ -33,7 +33,10 @@
     - https://blog.univalence.io/implicit-encoder-sparksession-configuration-quelques-astuces-pour-structurer-du-code-spark/
     - https://chrisdone.com/posts/clientside-programming-haskell/
 - 2019-08-18 https://tpolecat.github.io/2015/04/29/f-bounds.html
-- 2019-08-19 https://typelevel.org/cats/typeclasses/\*
+- 2019-08-19 [cats typeclasses doc](https://typelevel.org/cats/typeclasses.html)
+- 2019-08-21
+    - [cats datatypes doc](https://typelevel.org/cats/datatypes.html)
+    - [circe docs](https://circe.github.io/circe/)
 
 ## Watched
 
