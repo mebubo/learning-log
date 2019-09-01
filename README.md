@@ -37,6 +37,8 @@
 - 2019-08-21
     - [cats datatypes doc](https://typelevel.org/cats/datatypes.html)
     - [circe docs](https://circe.github.io/circe/)
+- 2019-08-27 https://thomashoneyman.com/articles/replace-react-components-with-purescript/
+- 2019-08-30 https://thomashoneyman.com/guides/real-world-halogen/
 
 ## Watched
 
