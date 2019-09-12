@@ -39,6 +39,11 @@
     - [circe docs](https://circe.github.io/circe/)
 - 2019-08-27 https://thomashoneyman.com/articles/replace-react-components-with-purescript/
 - 2019-08-30 https://thomashoneyman.com/guides/real-world-halogen/
+- 2019-09-11 https://milessabin.com/blog/2012/04/27/shapeless-polymorphic-function-values-1/
+- 2019-09-12
+    - https://milessabin.com/blog/2012/05/10/shapeless-polymorphic-function-values-2/
+    - http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html
+    - http://kanaka.io/blog/2015/11/10/shapeless-not-a-tutorial-part-2.html
 
 ## Watched
 
