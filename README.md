@@ -132,6 +132,8 @@
     - [Scale By The Bay 2018: Michael Pilquist, Concurrency with Cats-effect](https://www.youtube.com/watch?v=Gig-f_HXvLI)
 - 2019-08-18
     - [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)
+- 2019-09-15 ["Building Haskell Programs with Fused Effects" by Patrick Thomson](https://www.youtube.com/watch?v=vfDazZfxlNs)
+- 2019-09-19 [How to Build a Functional API—Julien Truffaut](https://www.youtube.com/watch?v=__zuECMFCRc)
 
 # Queue
 
@@ -260,6 +262,14 @@
 - [Jon Pretty Type Members vs Type Parameters - NE Scala 2016](https://www.youtube.com/watch?v=R8GksuRw3VI)
 - https://skillsmatter.com/skillscasts/6875-workshop-shapeless-for-mortals
 - [Composing Contracts: An Adventure in Financial Engineering - Simon Peyton-Jones](https://www.youtube.com/watch?v=dd1F6GrivhI)
+- [Adopting pure FP incrementally - Engineering at Lumi - Phil Freeman](https://www.youtube.com/watch?v=SiGXTcFEvHo)
+- ["Flare: Optimizing Apache Spark for Scale-Up Architectures and Medium-Size Data" by Gregory Essertel](https://www.youtube.com/watch?v=0bqJ2XgLnyc)
+- [Fabio Labella—How do Fibers Work? A Peek Under the Hood](https://www.youtube.com/watch?v=x5_MmZVLiSM)
+- [Luka Jacobowitz—Monoids, Monoids, Monoids](https://www.youtube.com/watch?v=DJyhWAwmGqE)
+- [The Last Frontier and Beyond](https://skillsmatter.com/skillscasts/13231-scala-matters)
+- [BOB Summer 2019 - Conal Elliott, A Functional Reboot for Deep Learning](https://www.youtube.com/watch?v=Ns3DxUeCvRg)
+- [Chris Penner - Comonads by Example 1/4](https://www.youtube.com/watch?v=HOmOQnQGtPU)
+
 
 # Projects
 
