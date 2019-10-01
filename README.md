@@ -44,6 +44,9 @@
     - https://milessabin.com/blog/2012/05/10/shapeless-polymorphic-function-values-2/
     - http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html
     - http://kanaka.io/blog/2015/11/10/shapeless-not-a-tutorial-part-2.html
+- 2019-09-27
+    - https://www.math3ma.com/blog/the-most-obvious-secret-in-mathematics
+    - https://www.math3ma.com/blog/what-is-galois-theory-anyway
 
 ## Watched
 
@@ -134,6 +137,7 @@
     - [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)
 - 2019-09-15 ["Building Haskell Programs with Fused Effects" by Patrick Thomson](https://www.youtube.com/watch?v=vfDazZfxlNs)
 - 2019-09-19 [How to Build a Functional API—Julien Truffaut](https://www.youtube.com/watch?v=__zuECMFCRc)
+- 2019-10-01 [Daniel Beskin—Compile-time Logic Programming in Scala: what for?](https://www.youtube.com/watch?v=9i06TyYM_lI)
 
 # Queue
 
