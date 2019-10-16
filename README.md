@@ -138,6 +138,11 @@
 - 2019-09-15 ["Building Haskell Programs with Fused Effects" by Patrick Thomson](https://www.youtube.com/watch?v=vfDazZfxlNs)
 - 2019-09-19 [How to Build a Functional API—Julien Truffaut](https://www.youtube.com/watch?v=__zuECMFCRc)
 - 2019-10-01 [Daniel Beskin—Compile-time Logic Programming in Scala: what for?](https://www.youtube.com/watch?v=9i06TyYM_lI)
+- 2019-10-08 [Property-Based Testing The Ugly Parts: Case Studies from Komposition - Oskar Wickström](https://www.youtube.com/watch?v=z2ete8VZnZY)
+- 2019-10-12 [Gabriel Gonzalez: Dhall - Programmable configuration language](https://www.youtube.com/watch?v=Ih9Ngu7FlCc)
+- 2019-10-14
+    - [YOW! 2017 Ken Scambler - Adopting FP - A Human-First Approach #YOW](https://www.youtube.com/watch?v=vpcKnqyNdSQ)
+    - ["Stop ****ing up our language", porting the FP stack to Kotlin - Paco Estevez](https://www.youtube.com/watch?v=jBKfB1jq4k0)
 
 # Queue
 
@@ -273,6 +278,12 @@
 - [The Last Frontier and Beyond](https://skillsmatter.com/skillscasts/13231-scala-matters)
 - [BOB Summer 2019 - Conal Elliott, A Functional Reboot for Deep Learning](https://www.youtube.com/watch?v=Ns3DxUeCvRg)
 - [Chris Penner - Comonads by Example 1/4](https://www.youtube.com/watch?v=HOmOQnQGtPU)
+- [Type inference as constraint solving: how GHC’s type inference engine actually works - SPJ](https://www.youtube.com/watch?v=-TJGhGa04F8)
+- [Gabriel Gonzales: Data science APIs in Haskell - λC Winter Retreat 2017](https://www.youtube.com/watch?v=pXjBcoe3M2s)
+- [MuniHac 2016: Beautiful folds are practical, too](https://www.youtube.com/watch?v=6a5Ti0r8Q2s)
+- [Gabriel Gonzales: Applied category theory and abstract algebra - λC Winter Retreat 2017](https://www.youtube.com/watch?v=WsA7GtUQeB8)
+- [Desktop and editor setup for Rust development](https://www.youtube.com/watch?v=ycMiMDHopNc)
+- https://skillsmatter.com/skillscasts/14665-polysemy-chasing-performance-in-free-monads
 
 
 # Projects
