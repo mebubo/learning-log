@@ -143,6 +143,8 @@
 - 2019-10-14
     - [YOW! 2017 Ken Scambler - Adopting FP - A Human-First Approach #YOW](https://www.youtube.com/watch?v=vpcKnqyNdSQ)
     - ["Stop ****ing up our language", porting the FP stack to Kotlin - Paco Estevez](https://www.youtube.com/watch?v=jBKfB1jq4k0)
+- 2019-11-09 [Lambda World 2019 - A categorical view of computational effects - Emily Riehl](https://www.youtube.com/watch?v=Ssx2_JKpB3U)
+- 2019-11-11 [Lambda World 2019 - Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 
 # Queue
 
