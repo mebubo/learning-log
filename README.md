@@ -48,6 +48,9 @@
     - https://www.math3ma.com/blog/the-most-obvious-secret-in-mathematics
     - https://www.math3ma.com/blog/what-is-galois-theory-anyway
 - 2019-11-12 https://leanpub.com/pfhais
+- 2019-11-28
+    - https://typelevel.org/blog/2017/06/21/ciris.html
+    - https://cir.is/blog/2019/11/01/ciris-v1.0.0
 
 ## Watched
 
