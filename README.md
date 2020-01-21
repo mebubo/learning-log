@@ -51,6 +51,9 @@
 - 2019-11-28
     - https://typelevel.org/blog/2017/06/21/ciris.html
     - https://cir.is/blog/2019/11/01/ciris-v1.0.0
+- 2020-01-21 
+    - https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
+    - https://blog.ploeh.dk/2020/01/20/algebraic-data-types-arent-numbers-on-steroids/
 
 ## Watched
 
