@@ -54,6 +54,7 @@
 - 2020-01-21 
     - https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
     - https://blog.ploeh.dk/2020/01/20/algebraic-data-types-arent-numbers-on-steroids/
+    - http://tomasp.net/blog/types-and-math.aspx/
 
 ## Watched
 
