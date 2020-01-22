@@ -57,6 +57,9 @@
     - http://tomasp.net/blog/types-and-math.aspx/
 - 2020-01-22
     - https://williamyaoh.com/posts/2019-10-12-how-to-basic-error-handling-logging.html
+    - https://williamyaoh.com/posts/2019-06-06-how-i-read-haskell-documentation.html
+    - http://tomasp.net/blog/type-first-development.aspx/
+    - https://blog.ploeh.dk/2016/11/28/easy-domain-modelling-with-types/
 
 ## Watched
 
