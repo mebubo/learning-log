@@ -55,6 +55,8 @@
     - https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
     - https://blog.ploeh.dk/2020/01/20/algebraic-data-types-arent-numbers-on-steroids/
     - http://tomasp.net/blog/types-and-math.aspx/
+- 2020-01-22
+    - https://williamyaoh.com/posts/2019-10-12-how-to-basic-error-handling-logging.html
 
 ## Watched
 
@@ -218,6 +220,9 @@
 - https://medium.com/@olivier.melois/a-rate-limiter-in-15-lines-of-code-with-cats-effect-af09d838857a
 - https://blogs.ncl.ac.uk/andreymokhov/stroll/
 - https://www.andrew.cmu.edu/user/erijke/hott/
+- https://williamyaoh.com/posts/2019-04-25-lens-exercises.html
+- https://bartoszmilewski.com/2019/07/03/programming-with-universal-constructions/
+- https://bartoszmilewski.com/2019/09/20/the-power-of-adjunctions/
 
 ## To watch
 
