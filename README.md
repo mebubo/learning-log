@@ -60,6 +60,8 @@
     - https://williamyaoh.com/posts/2019-06-06-how-i-read-haskell-documentation.html
     - http://tomasp.net/blog/type-first-development.aspx/
     - https://blog.ploeh.dk/2016/11/28/easy-domain-modelling-with-types/
+- 2020-01-23
+    - https://typelevel.org/blog/2019/02/06/algebraic-api-design.html
 
 ## Watched
 
