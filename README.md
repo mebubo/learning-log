@@ -62,6 +62,8 @@
     - https://blog.ploeh.dk/2016/11/28/easy-domain-modelling-with-types/
 - 2020-01-23
     - https://typelevel.org/blog/2019/02/06/algebraic-api-design.html
+- 2020-02-01
+    - https://github.com/Gabriel439/slides/blob/master/nixos/slides.md
 
 ## Watched
 
