@@ -163,6 +163,7 @@
 - 2019-11-09 [Lambda World 2019 - A categorical view of computational effects - Emily Riehl](https://www.youtube.com/watch?v=Ssx2_JKpB3U)
 - 2019-11-11 [Lambda World 2019 - Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 - 2019-11-18 [Scale By The Bay 2019: Jeremy Smith & Jonathan Indig, Solving the Scala Notebook Experience](https://www.youtube.com/watch?v=QplRowWRNuQ)
+- 2020-02-01 [Chris Penner - Comonads by Example 1/4](https://www.youtube.com/watch?v=HOmOQnQGtPU)
 
 # Queue
 
@@ -299,7 +300,6 @@
 - [Luka Jacobowitz—Monoids, Monoids, Monoids](https://www.youtube.com/watch?v=DJyhWAwmGqE)
 - [The Last Frontier and Beyond](https://skillsmatter.com/skillscasts/13231-scala-matters)
 - [BOB Summer 2019 - Conal Elliott, A Functional Reboot for Deep Learning](https://www.youtube.com/watch?v=Ns3DxUeCvRg)
-- [Chris Penner - Comonads by Example 1/4](https://www.youtube.com/watch?v=HOmOQnQGtPU)
 - [Type inference as constraint solving: how GHC’s type inference engine actually works - SPJ](https://www.youtube.com/watch?v=-TJGhGa04F8)
 - [Gabriel Gonzales: Data science APIs in Haskell - λC Winter Retreat 2017](https://www.youtube.com/watch?v=pXjBcoe3M2s)
 - [MuniHac 2016: Beautiful folds are practical, too](https://www.youtube.com/watch?v=6a5Ti0r8Q2s)
