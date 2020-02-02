@@ -64,6 +64,9 @@
     - https://typelevel.org/blog/2019/02/06/algebraic-api-design.html
 - 2020-02-01
     - https://github.com/Gabriel439/slides/blob/master/nixos/slides.md
+- 2020-02-02
+    - http://blog.vmchale.com/article/cpkg-announce
+    - http://blog.vmchale.com/article/functional-haskell
 
 ## Watched
 
@@ -164,6 +167,7 @@
 - 2019-11-11 [Lambda World 2019 - Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 - 2019-11-18 [Scale By The Bay 2019: Jeremy Smith & Jonathan Indig, Solving the Scala Notebook Experience](https://www.youtube.com/watch?v=QplRowWRNuQ)
 - 2020-02-01 [Chris Penner - Comonads by Example 1/4](https://www.youtube.com/watch?v=HOmOQnQGtPU)
+- 2020-02-02 [An Introduction to Dhall - Scott Murphy: OKC FP](https://www.youtube.com/watch?v=1yOfr9f7nJk)
 
 # Queue
 
