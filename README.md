@@ -235,6 +235,7 @@
 - https://williamyaoh.com/posts/2019-04-25-lens-exercises.html
 - https://bartoszmilewski.com/2019/07/03/programming-with-universal-constructions/
 - https://bartoszmilewski.com/2019/09/20/the-power-of-adjunctions/
+- https://jacobstanley.io/how-to-use-hedgehog-to-test-a-real-world-large-scale-stateful-app/
 
 ## To watch
 
