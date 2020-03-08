@@ -67,6 +67,8 @@
 - 2020-02-02
     - http://blog.vmchale.com/article/cpkg-announce
     - http://blog.vmchale.com/article/functional-haskell
+- 2020-03-08
+    - https://jacobstanley.io/how-to-use-hedgehog-to-test-a-real-world-large-scale-stateful-app/
 
 ## Watched
 
