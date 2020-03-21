@@ -170,6 +170,7 @@
 - 2019-11-18 [Scale By The Bay 2019: Jeremy Smith & Jonathan Indig, Solving the Scala Notebook Experience](https://www.youtube.com/watch?v=QplRowWRNuQ)
 - 2020-02-01 [Chris Penner - Comonads by Example 1/4](https://www.youtube.com/watch?v=HOmOQnQGtPU)
 - 2020-02-02 [An Introduction to Dhall - Scott Murphy: OKC FP](https://www.youtube.com/watch?v=1yOfr9f7nJk)
+- 2020-03-20 [Pawel Szulc - Formal verification applied (with TLA+)](https://www.youtube.com/watch?v=l9XZYI3jta0)
 
 # Queue
 
